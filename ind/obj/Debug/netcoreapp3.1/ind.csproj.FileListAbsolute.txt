@@ -1,0 +1,11 @@
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.exe
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.deps.json
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.runtimeconfig.json
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.runtimeconfig.dev.json
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.dll
+D:\C#\ind\bin\Debug\netcoreapp3.1\ind.pdb
+D:\C#\ind\obj\Debug\netcoreapp3.1\ind.csprojAssemblyReference.cache
+D:\C#\ind\obj\Debug\netcoreapp3.1\ind.AssemblyInfoInputs.cache
+D:\C#\ind\obj\Debug\netcoreapp3.1\ind.AssemblyInfo.cs
+D:\C#\ind\obj\Debug\netcoreapp3.1\ind.dll
+D:\C#\ind\obj\Debug\netcoreapp3.1\ind.pdb
